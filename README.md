@@ -51,9 +51,6 @@ Start the server
 ```bash
   npm start
 ```
-# Screenshots
-
-![App Screenshot](https://user-images.githubusercontent.com/79671325/189240340-a472a09d-1d83-4837-9151-63c9ec83216b.png)
 
 
 
