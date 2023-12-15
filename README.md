@@ -1,25 +1,10 @@
 
 # Winning Corporation - React
 
-
-
-
-
-
-
-
-# Authors
-
-- [@SyedaMahamFahim](https://github.com/SyedaMahamFahim/)
-
 ## Tech Stack
 - React
 - Redux
 - React Router
-
-
-
-
 
 # Demo
 
@@ -51,10 +36,3 @@ Start the server
 ```bash
   npm start
 ```
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at syedamahamfahim@gmail.com
-
